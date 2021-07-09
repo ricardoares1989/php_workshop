@@ -1,0 +1,16 @@
+{
+    "name": "PHP proof",
+    "dockerComposeFile": [
+        "../docker-compose.yaml"
+    ],
+    "service": "backend",
+    "workspaceFolder": "/usr/src/app",
+    "extensions": [
+        "vscode-icons-team.vscode-icons",
+        "oderwat.indent-rainbow",
+        "coenraads.bracket-pair-colorizer",
+        "bmewburn.vscode-intelephense-client",
+        "felixfbecker.php-debug",
+        "felixfbecker.php-pack"
+    ]
+}

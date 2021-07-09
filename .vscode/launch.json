@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "php",
+            "request": "launch",
+            "name": "Php pruebas"
+
+        }
+    ]
+}
